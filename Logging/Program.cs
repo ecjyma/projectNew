@@ -15,7 +15,7 @@ namespace Logging
 {
     class Program
     {
-        static void Main(string[] args) 
+        static void Main(string[] args)    
         {
 
             LogEntry entry = new LogEntry();
