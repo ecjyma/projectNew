@@ -20,7 +20,7 @@ namespace Logging
 
             LogEntry entry = new LogEntry();
             entry.Priority = 1;
-            entry.Categories.Add("C#学习");
+            entry.Categories.Add("C#学习ECJYMAHELLO");
             entry.Title = "标题";
             entry.Message = "test";
             Logger.Write(entry);
